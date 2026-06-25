@@ -1,6 +1,6 @@
 # Order Management App
 
-Food delivery order management — built with FastAPI + React (Vite). 
+Food delivery order management - built with FastAPI + React (Vite). 
 
 ## Stack
 - **Backend**: Python, FastAPI, SQLite (via SQLAlchemy)
