@@ -1,12 +1,3 @@
----
-title: Order Management
-emoji: 🍕
-colorFrom: red
-colorTo: yellow
-sdk: docker
-pinned: false
----
-
 # Order Management App
 
 Food delivery order management — built with FastAPI + React (Vite). 
